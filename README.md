@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Emotion Recognition Model**
 
-- 🌱 I’m currently learning **Creating and Hosting Websites**
+- 🌱 I’m currently learning **Creating/Hosting Websites as well as CI/CD**
 
 - 📫 How to reach me **s.dabral2001@gmail.com**
 
